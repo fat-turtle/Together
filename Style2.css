@@ -1,0 +1,10 @@
+td{
+    padding: 20px;
+    margin: 20px;
+    background-color: aqua;
+    border-radius: 25px;
+}
+th{
+    background-color: aquamarine;
+    border-radius: 25px;
+}

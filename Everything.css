@@ -1,0 +1,7 @@
+body{
+    background-color: blanchedalmond;
+}
+button:hover{
+    background-color: crimson;
+    padding: 200px;
+}
